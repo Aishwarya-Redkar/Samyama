@@ -1,0 +1,94 @@
+filename Rename- samyama December aya pass
+
+***************
+below epass link
+Note :
+Sadhanapadha 24-25 Batch,
+change 25-26
+
+******************
+
+Check-in will be from 6:00 AM - 9:00 AM on 18th Jan 2025.
+change to 16th Dec 2025
+******************
+
+Step 2: Medical Screening:
+no gap
+last line add in bracket 
+
+Medical kits will be available for purchase at a nominal price. Please ensure you have sufficient cash in INR.
+
+*****************************************
+
+Step 5: Taxi Booking:
+
+remove all paragraph and add the below
+
+A detailed email on booking the cab/shuttle has already been shared.
+Please refer to the email with the subject: “Shuttle / Cab Facility for Upcoming Samyama Program.
+
+**********************************************
+
+after tamil
+For those who are arriving early
+
+instead of 
+If you are planning to arrive early (17th January 2025)
+change date to 14th & 15th December 2025
+***********************************************
+Arrival Timings – 9am till 8pm (Location: Welcome Point)
+change location to suryakund mandapam
+
+**********************************************
+Medical Screening, Bedding & Overseas formalities can be completed on 17th from 9am to 1pm and from 2pm to 5pm at the Suryakund Mandapam. The rest of the check-in process remains as mentioned above.
+
+change to 
+14th & 15th December from 2pm to 5.30pm at suryakund mandapam.
+
+**********************************************
+The rest of the check-in process remains as mentioned above.
+after this line add one line space and add below line
+
+<b> Note:,</b> Early arrivals will need to complete one check-in upon reaching the ashram, and the final Samyama check-in on 16th December along with all other participants.
+
+
+**********************************************
+Table headline date
+
+16th to 23rd December 2025
+
+************************************************
+
+In the table
+2.) taxi booking change url
+
+http://isha.co/Sam-Cab
+**********************************************
+7.Medical kit
+remove this linne
+There is no medical store within or around the ashram. Please ensure you have your necessary medications.
+
+replace with 
+Medical kits will be available for purchase at a nominal price. Please ensure you have sufficient cash in INR.
+
+**********************************************
+9 Check in - 16th dec replace both places
+
+**********************************************
+
+10. check out
+23rd December both places
+
+**********************************************
+++++++++++++++++++++++++++++++++++++++++++++++
+
+filename Rename- samyama December sph epass
+
+additional change
+
+Your program hall is Adiyogi Alayam
+
+instead of adiyogi alayam 
+change to spanda hall
+
+******************************
