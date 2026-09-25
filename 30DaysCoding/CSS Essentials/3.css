@@ -1,0 +1,23 @@
+/*universal selector*/
+*{
+    font-family:cursive;
+}
+
+/* element selector */
+h1{
+    color: orange;
+    border: 2px solid
+}
+/*class selector*/
+.test1{
+    border:2px solid orange;
+    color:red;
+}
+.test2{
+    color:blue;
+}
+/*id selector*/
+#hero{
+    color:orange;
+    background-color: black;
+}

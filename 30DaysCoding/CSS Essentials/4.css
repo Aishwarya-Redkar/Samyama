@@ -1,0 +1,7 @@
+h1{
+    border: 2px solid orange;
+    padding: 20px;
+    margin:100px;
+    height: 100px; /*text height and width*/
+    width: 100px;
+}
